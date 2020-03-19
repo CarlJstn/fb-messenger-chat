@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fb-messenger-chat/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fb-messenger-chat/static/js/main.5bd62704.chunk.js",
+    "main.js.map": "/fb-messenger-chat/static/js/main.5bd62704.chunk.js.map",
+    "runtime-main.js": "/fb-messenger-chat/static/js/runtime-main.6d6004b3.js",
+    "runtime-main.js.map": "/fb-messenger-chat/static/js/runtime-main.6d6004b3.js.map",
+    "static/js/2.e4217f3c.chunk.js": "/fb-messenger-chat/static/js/2.e4217f3c.chunk.js",
+    "static/js/2.e4217f3c.chunk.js.map": "/fb-messenger-chat/static/js/2.e4217f3c.chunk.js.map",
+    "index.html": "/fb-messenger-chat/index.html",
+    "precache-manifest.de060f92cb8b2d4352b6c04545806590.js": "/fb-messenger-chat/precache-manifest.de060f92cb8b2d4352b6c04545806590.js",
+    "service-worker.js": "/fb-messenger-chat/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fb-messenger-chat/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e4217f3c.chunk.js.LICENSE.txt": "/fb-messenger-chat/static/js/2.e4217f3c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fb-messenger-chat/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d6004b3.js",
+    "static/js/2.e4217f3c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5bd62704.chunk.js"
+  ]
+}
